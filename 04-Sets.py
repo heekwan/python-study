@@ -27,3 +27,5 @@ print(setB)
 
 setA.symmetric_difference_update(setB)
 print(setA)
+
+a = frozenset([1, 2, 3, 4])
